@@ -12,7 +12,7 @@ LightWeightSQL - a lightweight SQL app that I made when
 Note_Taker - read and write to a bunch of text files, I used it
 		to take notes in class
 
-PersonalEncrypter - encrypts/decrypts a bunch of files (ANSI) 
+PersonalEncrypter - encrypts/decrypts a bunch of files (ANSI) at the same time
 	using a symmetric key. If something other than ANSI/ASCII
 	is used then this program scrambles your file for you.
 
